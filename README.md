@@ -26,20 +26,27 @@ Mapping Earthquakes with JS &amp; APIs
 # Results: 
 ## Creating the overlays and controls:
 
-![Pic 1](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/toggle_options.PNG)
+![Pic 1](https://github.com/krmcclelland/Mapping_Earthquakes/blob/main/Overlay%20and%20Controls.png)
 
 ## Creating the map key based on Magnitude:
 
-![Pic 2](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/key.PNG)
+![Pic 2](https://github.com/krmcclelland/Mapping_Earthquakes/blob/main/Magnitude%20Key%20.png)
 
 ## A light map layer with all earthquake toggles:
-![Pic 3](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/light_all.PNG)
+![Pic 3](https://github.com/krmcclelland/Mapping_Earthquakes/blob/main/Light%20Map%20Layer%20With%20All%20Earthquake%20Toggles.png)
 
 ## A dark map layer with major earthquakes only:
-![Pic 4](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/dark_major.PNG)
+![Pic 4](https://github.com/krmcclelland/Mapping_Earthquakes/blob/main/Major%20Earthquakes%20Over%20a%20Dark%20Layer.png)
 
 ## Satellite streets layer with tectonic plates only:
-![Pic 5](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/satellite_plates.PNG)
+![Pic 5](https://github.com/krmcclelland/Mapping_Earthquakes/blob/main/Tectonic%20Plates%20With%20A%20Satellite%20Street%20Layer.png)
 
 ## Streets layer with earthquakes only:
-![Pic 6](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/streets_eq.PNG)
+![Pic 6](https://github.com/krmcclelland/Mapping_Earthquakes/blob/main/Earthquake%20On%20A%20Street%20Layer%20Map.png)
+
+# Additional Images:
+## GeoJSON_Linestrings:
+![Pic 7](![image](https://github.com/krmcclelland/Mapping_Earthquakes/blob/main/Mapping_GeoJSON_Linestrings.png)
+
+
+
