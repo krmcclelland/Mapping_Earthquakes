@@ -48,5 +48,11 @@ Mapping Earthquakes with JS &amp; APIs
 ## GeoJSON_Linestrings:
 ![Pic 7](![image](https://github.com/krmcclelland/Mapping_Earthquakes/blob/main/Mapping_GeoJSON_Linestrings.png)
 
+# Earthquake Dashboard
+https://public.tableau.com/app/profile/kelly.mcclelland/viz/NYC_citibike_challenge_16438497027570/CitibikeAnalysisDashboard?publish=yes
+
+
+# Earthquake Stories
+
 
 
